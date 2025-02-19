@@ -1,0 +1,195 @@
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Plagiarism Validation.exe
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Plagiarism Validation.deps.json
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Plagiarism Validation.runtimeconfig.json
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Plagiarism Validation.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Plagiarism Validation.pdb
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Bytescout.Spreadsheet.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.CodeDom.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ComponentModel.Composition.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ComponentModel.Composition.Registration.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Data.Odbc.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Data.OleDb.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.DirectoryServices.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.DirectoryServices.AccountManagement.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.IO.Ports.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Management.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Private.ServiceModel.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Reflection.Context.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.Http.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.Security.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.Syndication.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Speech.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Threading.AccessControl.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.csproj.AssemblyReference.cache
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.AssemblyInfoInputs.cache
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.AssemblyInfo.cs
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.csproj.CoreCompileInputs.cache
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiari.C55EAFBB.Up2Date
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\refint\Plagiarism Validation.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.pdb
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.genruntimeconfig.cache
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\ref\Plagiarism Validation.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.csproj.AssemblyReference.cache
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.AssemblyInfoInputs.cache
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.AssemblyInfo.cs
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.csproj.CoreCompileInputs.cache
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\refint\Plagiarism Validation.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.pdb
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Plagiarism Validation.exe
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Plagiarism Validation.deps.json
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Plagiarism Validation.runtimeconfig.json
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Plagiarism Validation.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Plagiarism Validation.pdb
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Bytescout.Spreadsheet.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.CodeDom.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ComponentModel.Composition.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ComponentModel.Composition.Registration.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Data.Odbc.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Data.OleDb.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.DirectoryServices.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.DirectoryServices.AccountManagement.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.IO.Ports.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Management.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Private.ServiceModel.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Reflection.Context.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.Http.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.Security.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceModel.Syndication.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Speech.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Threading.AccessControl.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.Messages.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Speech.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiari.C55EAFBB.Up2Date
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\Plagiarism Validation.genruntimeconfig.cache
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\obj\Debug\net8.0\ref\Plagiarism Validation.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\EPPlus.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\learning\Kolia\3rd Year\2nd semester\Algo\project\Plagiarism Validation\Plagiarism Validation\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
